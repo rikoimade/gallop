@@ -15,7 +15,7 @@ setup(
     include_package_data=True,
     scripts=['gallop_streamlit.py', 'gallop.bat'],
     install_requires=['pymatgen==2023.12.18',
-                        'numpy',
+                        'numpy==1.26',
                         'torch',
                         'scipy>=1.7.0',
                         'matplotlib',
