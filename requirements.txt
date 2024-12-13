@@ -1,0 +1,11 @@
+pymatgen==2023.12.18
+torch
+numpy==1.26
+scipy>=1.7.0
+torch-optimizer
+altair<5
+streamlit==1.11.1
+pandas
+py3Dmol
+mpld3
+matplotlib
